@@ -108,7 +108,7 @@ Organisation
 \small
 
 \begin{itemize}
-\item Mittwochs 13-15 Uhr (Gruppe 1) und 15-17 Uhr (Gruppe 2) im Raum G22A-011
+\item Mittwochs 15-17 Uhr (Gruppe 1) und 13-15 Uhr (Gruppe 2) im Raum G22A-011
 \item Tutorien: Organisation über die \textcolor{linkblue}{\href{https://elearning.ovgu.de/course/view.php?id=22151}{Moodleseite des Tutoriums}}
 \item Kursmaterialien (Folien, Übungsblätter, Code) auf der \textcolor{linkblue}{\href{https://www.ipsy.ovgu.de/Institut/Abteilungen+des+Institutes/Methodenlehre/Lehre/Wintersemester+2027/Programmierung+und+Deskriptive+Statistik.html}{Kurswebseite}} und auf \textcolor{linkblue}{\href{https://github.com/belinda-fleischmann/progr-und-deskr-stat-27}{GitHub}}
 \item Empfohlene Vorbereitung: \textcolor{linkblue}{\href{https://www.ipsy.ovgu.de/Institut/Abteilungen+des+Institutes/Methodenlehre/Lehre/Wintersemester+2027/Mathematische+Grundlagen.html}{Mathematische Grundlagen}}
