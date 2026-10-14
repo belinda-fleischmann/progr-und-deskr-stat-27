@@ -67,7 +67,7 @@ C2. Analyse und Dokumentation (Seminar/Übung, 2 SWS, SoSe)
 
 \small
 
-* Struktur und Präsentation wissenschaftlicher Arbeiten sowie forschungsethische Grundsätze.
+* Struktur und Präsentation wissenschaftlicher Arbeiten und forschungsethische Grundsätze.
 * Praktische Anwendung statistischer Analyseverfahren auf psychologische Beispieldatensätze.
 
 # Formalia
@@ -96,7 +96,7 @@ Deskriptive Statistik
 
 \begin{itemize}  \justifying 
 \item Tabellarische und grafische Darstellung von Daten mithilfe von Häufigkeitsverteilungen.
-\item Verteilungskennwerte als Maße der zentralen Tendenz und der Datenvariabilität (Streuung).
+\item Verteilungskennwerte als Maße der zentralen Tendenz und der Datenvariabilität.
 \item Praktische Anwendung auf Beispieldatensätze in R.
 \end{itemize}
 
@@ -116,6 +116,8 @@ Organisation
 \item Vorherige Iteration des Kurses: \textcolor{linkblue}{\href{https://github.com/belinda-fleischmann/progr-und-deskr-stat-26}{Programmierung und Deskriptive Statistik (WiSe 2025/26)}}
 \item Modulprüfung am Ende des Sommersemesters 2027 gemäß Prüfungsplan des \textcolor{linkblue}{\href{https://www.fnw.ovgu.de/Studium/Prüfungsamt.html}{FNW Prüfungsamtes}}
 \item Unbenotete Prüfungsvorleistung: Gruppenarbeit und Individualleistung (s. folgende Folien)
+\item Regelmäßige Teilnahme am Seminar als Voraussetzung für die CP (max. 2 unentschuldigte Fehltermine)
+
 \end{itemize}
 
 # Formalia
